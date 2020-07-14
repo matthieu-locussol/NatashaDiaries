@@ -10,7 +10,7 @@ module.exports = {
     "NatashaDiaries is a blog about studying abroad for Japanese students.",
 
   templates: {
-    Post: "/:title",
+    Post: "/:path",
     Tag: "/tag/:id",
   },
 
