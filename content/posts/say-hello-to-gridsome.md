@@ -1,6 +1,6 @@
 ---
 title: Being accepted at Sciences Po 🎉
-date: 2019-02-07
+date: 2020-07-14T11:48:01.540Z
 published: true
 tags:
   - France
