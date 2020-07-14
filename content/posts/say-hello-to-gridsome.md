@@ -3,8 +3,9 @@ title: Being accepted at Sciences Po 🎉
 date: 2019-02-07
 published: true
 tags:
-  - Markdown
-  - Releases
+  - France
+  - Sciences Po
+  - Paris
 cover_image: /images/uploads/sun-3713835_1920.jpg
 description: I've been accepted to Sciences Po! Read this article if you want to know how!
 ---
