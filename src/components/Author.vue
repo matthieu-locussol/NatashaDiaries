@@ -3,7 +3,9 @@
     <h1 v-if="showTitle" class="author__site-title">{{ $static.metadata.siteName }}</h1>
 
     <p class="author__intro">
-      Hi there! I'm Natasha, a japanese woman currently studying abroad at Sciences Po, Paris. On this blog, I shared advices for japanese students willing to study abroad.
+      ようこそ、Natasha Diariesへ
+      このブログではパリ政治学院での勉強や私のフランスでの生活について綴っています。
+      お暇な時にぜひ読んでいってください！
       <img
       src="/images/uploads/author.png"
       alt="Author_Picture"
