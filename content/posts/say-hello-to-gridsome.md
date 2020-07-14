@@ -1,26 +1,37 @@
 ---
-title: Being accepted at Sciences Po 🎉
-date: 2020-07-14T11:48:01.540Z
+title: はじめまして 🎉
+date: 2020-07-14T15:05:06.939Z
 published: true
 tags:
-  - France
-  - Sciences Po
-  - Paris
-cover_image: /images/uploads/sun-3713835_1920.jpg
-description: I've been accepted to Sciences Po! Read this article if you want to know how!
+  - 初投稿
+  - パリ政治学院
+cover_image: /images/uploads/blog-はじめまして.jpg
+description: はじめまして、2020年夏からパリ政治学院に進学するNatashaです！
 ---
-A new static site generator baby is born. It's highly inspired by Gatsby.js (React based) but built on top of Vue.js. We have been working on it for a year and will have a beta ready soon. You can expect this baby to grow up fast!
+こんにちは、
 
-We think **Gridsome** is a missing piece to the Vue.js ecosystem. What Gatsby.js does for React.js is a game changer in how we build websites.  React.js is excellent, but we think Vue.js is more approachable for most web designers and devs getting started with JAMstack. Gridsome is the Vue.js alternative to Gatsby.
+コロナの影響で働けず、絶賛ひきこもり中のNatashaです。
 
-With **Gridsome** you get a **universal GraphQL layer** for all your connected data sources. It's like a single source of truth for your website data ready to be used in any page or components. Connect to any CMS or APIs like Google Spreadsheet, Airtable, Instagram Feed, local markdown files, etc. 
+2020年の夏からパリ政治学院の修士課程に進学予定です。
 
-#### Whats next
+難民と働くことに情熱を持っており、将来の目標を叶えるために留学を決意しました。
 
-In the next couple of months we're going to continue to improve the docs, create tutorials, add more source & transformer plugins and fix bugs. 
 
-#### Contribute to Gridsome
 
-We're currently just two brothers working on this, so any contribution is very welcome. We're passionate about building a faster web and make website building fun again.
+幼い頃から海外に行くこと、学校で勉強で勉強することを夢見てきましたが、
 
-You can also support us by giving [a GitHub star ★](https://github.com/gridsome/gridsome/stargazers) and spread the word :)
+実力が足りなかったり、親に「危険」だということで留学を許可してもらえなかったり、、
+
+そして、やっと海外大学院で勉強をするという長年の目標を達成できました、、！
+
+
+
+ブログでは(情報量が少なすぎて若干謎に包まれている)パリ政治学院やフランス生活などについて赤裸々に書いていきたいと思います。
+
+
+
+長期の留学経験なし、いわゆるFラン大学からパリ政治学院への進学という他のパリ政治学院生とは少し変わったルートを進んできたと思うので私の経験が少しでも誰かの参考になれればと思います。
+
+
+
+それでは、ようこそNatasha Diariesへ
