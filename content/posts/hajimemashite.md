@@ -1,5 +1,5 @@
 ---
-title: はじめまして 🎉
+title: Hajimemashite 🎉
 date: 2020-07-14T15:05:06.939Z
 published: true
 tags:
